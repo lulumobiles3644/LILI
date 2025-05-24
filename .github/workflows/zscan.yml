@@ -65,3 +65,8 @@ jobs:
   "alg": "HS256",
   "typ": "JWT"
 }
+{
+  "sub": "1234567890",
+  "name": "John Doe",
+  "admin": true
+}
