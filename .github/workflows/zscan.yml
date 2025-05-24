@@ -61,3 +61,7 @@ jobs:
         With:
           Finger_Print: For all staffs login
           
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
